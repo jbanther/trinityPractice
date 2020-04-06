@@ -1,6 +1,6 @@
 # trinityPractice
 
-The week.sh script performs five actions:
+The week4.sh script performs five actions:
 
 1.	It downloads the fastq files for SRR11284037.
 2.	It checks the quality of the raw SRR11284037 files. 
